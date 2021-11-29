@@ -1,0 +1,12 @@
+﻿  Main.cpp
+D:\ykrop\Desktop\Study\Third course\Computer graphics\Mandelbrot set\Mandelbrot set\Main.cpp(41,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ykrop\Desktop\Study\Third course\Computer graphics\Mandelbrot set\Mandelbrot set\Main.cpp(41,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Mandelbrot set.vcxproj -> D:\ykrop\Desktop\Study\Third course\Computer graphics\Mandelbrot set\Debug\Mandelbrot set.exe
